@@ -1,3 +1,13 @@
+<h1 align="center">👋 Welcome to My Profile!</h1>
+<p align="center">🌟 Exploring AI | 💻 Solving Problems | 🎯 Building My Future in Tech</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Hi%2C+I'm+Sneha+%F0%9F%91%8B;CS+Student+%7C+AI+Explorer+%7C+DSA+Warrior;I+build+tools+that+make+life+smarter!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
 <h1 align="center">Hi 👋, I'm Sneha</h1>
 <h3 align="center">CS undergrad passionate about AI, real-world problem-solving, and preparing for a future in tech.</h3>
 
