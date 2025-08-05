@@ -14,7 +14,7 @@
 - 🌱 **Learning:** Advanced DSA patterns, ML with Scikit-learn/XGBoost, Next.js integration
 - 💡 **Passionate about:** AI-driven solutions for real-world problems
 - 💬 **Ask me about:** Python/C++ optimization, interview prep strategies, or tech project ideation
-- ⚡ **Fun fact:** I once implemented a neural net to generate poetry about data structures!
+- ⚡ **Fun fact:** I enjoy solving coding puzzles while sipping masala chai!
 
 ---
 
@@ -31,14 +31,8 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-### AI/ML
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-3776AB?logo=xgboost&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
 
 ---
