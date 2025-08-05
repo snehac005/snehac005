@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sneha</h1>
 <h3 align="center">CS undergrad passionate about AI, real-world problem-solving, and preparing for a future in tech.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=snehac005&label=Profile%20views&color=0e75b6&style=flat" alt="snehac005" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snehac005" alt="snehac005" /></a> </p>
 # 💫 About Me:
 🔭 I’m currently working on SkillSync – A personalized skill-learning scheduler and progress tracker<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning DSA, AI/ML (Scikit-learn, XGBoost), Next.js (for frontend integration)<br>💬 Ask me about Placement prep, Python, C++, DSA patterns, creative tech project ideas<br>⚡ Fun fact
 
