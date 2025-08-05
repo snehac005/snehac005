@@ -2,7 +2,7 @@
 <p align="center">🌟 Exploring AI | 💻 Solving Problems | 🎯 Building My Future in Tech</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Hi%2C+I'm+Sneha+%F0%9F%91%8B;CS+Student+%7C+AI+Explorer+%7C+DSA+Warrior;Passionate+about+tech+that+makes+life+better!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Hi%2C+I'm+Sneha+%F0%9F%91%8B;CS+Student+%7C+AI+Explorer+%7C+DSA+Warrior;I+build+tools+that+make+life+smarter!" alt="Typing SVG" />
 </p>
 
 <p align="center">
