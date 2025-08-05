@@ -1,59 +1,28 @@
 <h1 align="center">Hi 👋, I'm Sneha</h1>
-<h3 align="center">CS undergrad passionate about AI, real-world problem-solving, and preparing for a future in tech</h3>
+<h3 align="center">CS undergrad passionate about AI, real-world problem-solving, and preparing for a future in tech.</h3>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=snehac005&label=Profile%20views&color=0e75b6&style=flat" alt="snehac005" /> </p>
 
-### 🧠 About Me
-- 🔭 I’m currently working on: **SkillSync** – a personalized skill-learning scheduler & tracker *(coming soon)*
-- 🌱 Learning: **DSA**, **AI/ML** (Scikit-learn, XGBoost), **Next.js**
-- 💬 Ask me about: **Placement prep**, **Python**, **C++**, **DSA patterns**
-- ⚡ Fun fact: I like turning random tech ideas into real working projects.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snehac005" alt="snehac005" /></a> </p>
 
----
+- 🔭 I’m currently working on **SkillSync – A personalized skill-learning scheduler and progress tracker**
 
-### 🌐 Connect with Me  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snehac9873@gmail.com)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/sneha479)
+- 🌱 I’m currently learning **DSA, AI/ML (Scikit-learn, XGBoost), Next.js (for frontend integration)**
 
----
+- 💬 Ask me about **Placement prep, Python, C++, DSA patterns, creative tech project ideas**
 
-### 💻 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+- 📫 How to reach me **snehac9873@gmail.com**
 
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snehac005&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehac005&theme=tokyonight&layout=compact&hide_border=false" width="48%" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.leetcode.com/sneha479" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sneha479" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehac005&theme=tokyonight&hide_border=false" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snehac005&show_icons=true&locale=en&layout=compact" alt="snehac005" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snehac005&show_icons=true&locale=en" alt="snehac005" /></p>
 
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-### 🧮 Visitor Count
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=snehac005&label=Profile%20Views&color=6A5ACD&icon=2" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehac005&" alt="snehac005" /></p>
