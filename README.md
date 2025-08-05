@@ -1,58 +1,71 @@
-<h1 align="center">👋 Welcome to My Profile!</h1>
-<p align="center">🌟 Exploring AI | 💻 Solving Problems | 🎯 Building My Future in Tech</p>
+<h1 align="center">Hi 👋, I'm Sneha</h1>
+<h3 align="center">Computer Science Undergraduate | AI & Problem-Solving Enthusiast | Future Tech Innovator</h3>
 
-<img src="https://raw.githubusercontent.com/snehac005/snehac005/main/assets/coding-girl.gif" alt="Coding Girl" width="300" align="center"/>
-
----
-
-<h2 align="center">Hi 👋, I'm Sneha</h2>
-<h4 align="center">CS undergrad passionate about AI, real-world problem-solving, and preparing for a future in tech.</h4>
-
----
-
-## 🧠 About Me:
-- 🔭 I’m currently working on **SkillSync** – A personalized skill-learning scheduler and progress tracker  
-- 👯 I’m looking to collaborate on **ML projects, beginner-friendly tech teams, and open-source contributions**  
-- 🤝 I’m looking for help with **Next.js frontend integration**  
-- 🌱 Currently learning **DSA, AI/ML (Scikit-learn, XGBoost), and Next.js**  
-- 💬 Ask me about **Placement prep, Python, C++, DSA patterns, creative tech project ideas**  
-- ⚡ Fun fact: I believe tech can turn even the wildest ideas into reality!  
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+intelligent+solutions;Turning+algorithms+into+impact" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-## 🌐 Socials:
-[![Mastodon](https://img.shields.io/badge/Mastodon-3088D4?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@SnehaChauhan)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snehac9873@gmail.com)
+## 🔥 About Me
+- 🔭 **Currently building:** [SkillSync](https://github.com/snehac005/SkillSync) - AI-powered personalized learning scheduler
+- 🌱 **Learning:** Advanced DSA patterns, ML with Scikit-learn/XGBoost, Next.js integration
+- 💡 **Passionate about:** AI-driven solutions for real-world problems
+- 💬 **Ask me about:** Python/C++ optimization, interview prep strategies, or tech project ideation
+- ⚡ **Fun fact:** I once implemented a neural net to generate poetry about data structures!
 
 ---
 
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## 🛠️ Tech Stack
+### Languages
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+### Web & Databases
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+### AI/ML
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-3776AB?logo=xgboost&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=snehac005&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=snehac005&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=snehac005&theme=radical&hide_border=false&layout=compact)
+## 📈 GitHub Analytics
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=snehac005&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=snehac005&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehac005&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=repository-name-here" /> 
+</p>
 
 ---
 
-## 💬 Dev Quote:
+## 🌐 Let's Connect
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=white)](https://mastodon.social/@snehachauhan)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:snehac9873@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/sneha-chauhan)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/snehac005)
+
+---
+
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-## 👀 Visitor Count:
-[![](https://visitcount.itsvg.in/api?id=snehac005&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=snehac005&label=Profile+Views&color=ce9927&style=flat" alt="Profile Views" /> 
+  <img alt="Last Updated" src="https://img.shields.io/github/last-commit/snehac005/snehac005?label=Last+Update&color=blueviolet">
+</p>
