@@ -11,7 +11,7 @@
 
 ## 🔥 About Me
 - 🔭 **Currently building:** [SkillSync](https://github.com/snehac005/SkillSync) - AI-powered personalized learning scheduler
-- 🌱 **Learning:** Advanced DSA patterns, ML with Scikit-learn/XGBoost, Next.js integration
+- 🌱 **Learning:** Advanced DSA patterns, ML
 - 💡 **Passionate about:** AI-driven solutions for real-world problems
 - 💬 **Ask me about:** Python/C++ optimization, interview prep strategies, or tech project ideation
 - ⚡ **Fun fact:** I enjoy solving coding puzzles while sipping masala chai!
